@@ -560,8 +560,8 @@ html {
 .form {
   display: flex;
   width: 540px;
-  border: 2px solid #fefefe;
-  background-color: #fefefe;
+  border: 2px solid #fff;
+  background-color: #fff;
   border-radius: 4px;
   margin-right: auto;
   margin-left: auto;
