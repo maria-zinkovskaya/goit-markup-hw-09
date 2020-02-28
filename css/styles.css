@@ -560,12 +560,13 @@ html {
 .form {
   display: flex;
   width: 540px;
-  border: 2px solid white;
-  background-color: white;
+  border: 2px solid #fefefe;
+  background-color: #fefefe;
   border-radius: 4px;
   margin-right: auto;
   margin-left: auto;
 }
+
 .form__input {
   width: 446px;
   padding-left: 25px;
